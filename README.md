@@ -5,7 +5,7 @@
 ## 🌟 About Me
 
 - 🔭 I’m currently working on landing.podwat.ch
-- 🌱 I’m currently learning Kubernetes(CKA) and cloud things in general]
+- 🌱 I’m currently learning Kubernetes(CKA) and cloud things in general
 - 💬 Ask me about Linux & Tracing :)
 - ⚡ Fun fact: professional minigolfer
 - 🧑‍💻 More then 10 years of experience in the telecom industry
