@@ -17,8 +17,5 @@
 - Platform & Cloud & Tracing
 - Tools & Platforms: Ansible, Docker, Git, Terraform, K8s, VMware, Bash, Wireshark, 
 
-## 📫 Connect with Me
-- [LinkedIn](www.linkedin.com/in/jannis-werschmann)
-- [Website](https://yourwebsite.com)
   
 
