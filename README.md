@@ -4,7 +4,7 @@
 
 ## 🌟 About Me
 
-- 🔭 I’m currently working on landing.podwat.ch
+- 🔭 I’m currently working on podwatch - Kubernetes Add-On Lifecycle Manager 
 - 🌱 I’m currently learning Kubernetes(CKA) and cloud things in general
 - 💬 Ask me about Linux & Tracing :)
 - ⚡ Fun fact: professional minigolfer
