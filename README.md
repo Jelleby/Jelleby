@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Kubernetes(CKA) and cloud things in general
 - 💬 Ask me about Linux & Tracing :)
 - ⚡ Fun fact: professional minigolfer
-- 🧑‍💻 More then 10 years of experience in the telecom industry
+- 🧑‍💻 More than 10 years of experience in the telecom industry
 
 
 
