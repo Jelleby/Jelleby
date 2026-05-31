@@ -4,8 +4,8 @@
 
 ## 🌟 About Me
 
-- 🔭 I’m currently working on podwatch - Kubernetes Add-On Lifecycle Manager 
-- 🌱 I’m currently learning Kubernetes(CKA) and cloud things in general
+- 🔭 I’m currently working on a private kubernetes project
+- 🌱 I’m currently learning Kubernetes and cloud things in general
 - 💬 Ask me about Linux & Tracing :)
 - ⚡ Fun fact: professional minigolfer
 - 🧑‍💻 More than 10 years of experience in the telecom industry
